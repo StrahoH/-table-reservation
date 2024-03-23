@@ -1,0 +1,29 @@
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\Room resevation.exe
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\Room resevation.deps.json
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\Room resevation.runtimeconfig.json
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\Room resevation.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\Room resevation.pdb
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room_resevation.Form1.resources
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.csproj.GenerateResource.cache
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.AssemblyInfoInputs.cache
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.AssemblyInfo.cs
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.csproj.CoreCompileInputs.cache
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\refint\Room resevation.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.pdb
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.genruntimeconfig.cache
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\ref\Room resevation.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.csproj.AssemblyReference.cache
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\System.Reactive.Windows.Forms.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room resevation.csproj.CopyComplete
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room_resevation.reservationForm.resources
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room_resevation.regester.resources
+C:\Users\Strahil\Desktop\Visual Studio projects\reservation\Room resevation\Room resevation\obj\Debug\net6.0-windows\Room_resevation.LogIn.resources
